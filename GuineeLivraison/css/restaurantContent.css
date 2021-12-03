@@ -1,0 +1,22 @@
+#presentation {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.name {
+    margin-bottom: 20px;
+}
+
+.precision {
+    font-weight: bold;
+    font-size: 15px !important;
+    color: black !important;
+}
+
+.desc {
+    font-size: 15px !important;
+}
+
+.cardItem {
+    margin-bottom: 25px !important;
+}

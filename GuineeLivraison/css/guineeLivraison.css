@@ -1,0 +1,110 @@
+.navbardiv,
+.dpdColor {
+    background-color: rgb(255, 92, 92);
+}
+
+.affiche {
+    height: 350px;
+    background-size: contain;
+}
+
+.error {
+    color: red;
+}
+
+.copyright {
+    color: white;
+}
+
+.je_me_connecte {
+    font-size: 16px;
+}
+
+.voir_panier_text {
+    font-size: 16px;
+}
+
+.margintop404 {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.error {
+    color: red;
+}
+
+.adminIndex,
+.section {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.article_type_span {
+    font-size: 13px;
+}
+
+.connectedfooter {
+    color: orange;
+}
+
+.cardItem {
+    margin-bottom: 25px !important;
+}
+
+.succes,
+.connected {
+    color: green;
+}
+
+.supression {
+    color: red;
+    font-size: 20px;
+}
+
+.articleimage {
+    height: 20;
+    width: 20px;
+}
+
+.viewsite {
+    color: orange;
+    font-size: 20px;
+}
+
+.logo-title {
+    color: white !important;
+}
+
+.panier {
+    font-size: 20px;
+}
+
+.messageFontAwesome {
+    font-size: 30px;
+    color: white;
+}
+
+.modifyField {
+    margin-top: 20px;
+}
+
+#presentation {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.content {
+    color: green !important;
+}
+
+.panierRestaurantRow {
+    margin-bottom: 25px;
+}
+
+.panierImageItem {
+    margin-bottom: 10px;
+}
+
+.item {
+    margin-bottom: 5px;
+}
